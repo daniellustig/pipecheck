@@ -1,0 +1,15 @@
+*.d
+*.glob
+*.vo
+Makefile.bak
+*.gv
+*.pdf
+.DS_Store
+Makefile.coq
+html
+*.mli
+*.native
+gem5.ml
+opensparc.ml
+_build
+*.old
